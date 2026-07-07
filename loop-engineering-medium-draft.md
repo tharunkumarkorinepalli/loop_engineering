@@ -155,7 +155,7 @@ And coming next: **continual learning**, where agents "dream." They look back ov
 
 ## The Do and Don't Cheat Sheet (Save This)
 
-| ✅ Do | ❌ Don't |
+|   Do |  Don't |
 |------|---------|
 | Set a max number of tries. Always have a stop condition. | Run without a budget cap. This is how you get a surprise $1,000 bill. |
 | Use a separate checker. Models go easy grading their own work. | Build a complex loop for a one-off task a single prompt could solve. |
